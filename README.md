@@ -32,5 +32,5 @@ sudo cd tpotce/iso/installer/
 sudo ./install.sh --type=user
 ```
 
-
+![App Screenshot](https://imgur.com/a/qYD8cvc)
 
